@@ -5,4 +5,6 @@ Julia is a modern programming language, ideal for scientific computing, designed
 
 - **Date**: Friday, January 10, and Monday, January 13
 - **Registration form**: https://librehub.github.io/2024/12/19/julia-ws-2024.html
-- **Material**:   https://librehub.github.io/Advanced-Scientific-Computing-Using-Julia/
+- **Material**:
+  - Day 1: [Introduction to Julia](https://librehub.github.io/Advanced-Scientific-Computing-Using-Julia/slides/Day%201/Introduction%20to%20Julia.html)
+  - Day 2: [Optimizing your code](https://librehub.github.io/Advanced-Scientific-Computing-Using-Julia/slides/Day%202/Optimizing_your_code.html)
